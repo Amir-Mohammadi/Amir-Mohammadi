@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Amir Reza Mohammadi</h1>
 <h3 align="center">5+ years experience specializing in back-end and font-end development. a person who likes to research every day for better programming methods and skills. Interested in devising a better problem-solving method for challenging tasks, and learning new technologies and tools if the need arises.</h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amir-mohammadi&label=Profile%20views&color=0e75b6&style=flat" alt="amir-mohammadi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amir-mohammadi" alt="amir-mohammadi" /></a> </p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
