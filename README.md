@@ -12,6 +12,7 @@
 - **Microservices** with design patterns
 
 ### ⚡ Currently Working On
+- **store** backend project with **.Net**  
 - ORM development in **Qt (Q1ORM)**
 
 ### 💬 Expertise
