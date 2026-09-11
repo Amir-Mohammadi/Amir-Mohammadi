@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amir Reza Mohammadi</h1>
-<h3 align="center">Back-end Developer | .NET & C++ | 6+ years experience | Building robust and efficient software</h3>
+<h3 align="center">Back-end Developer | .NET & C++ | 7+ years experience | Building robust and efficient software</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=amir-mohammadi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -11,8 +11,8 @@
 - Refreshing networking fundamentals (CCNA)
 
 ### ⚡ Currently Working On
-- **DrPadel** — full-stack development on a padel academy booking & services platform
 - ORM development in **Qt**
+- **DrPadel** — full-stack development on a padel academy booking & services platform
 
 ### 💬 Expertise
 - Back-end development with **.NET / C#**
